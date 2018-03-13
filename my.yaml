@@ -1,0 +1,14 @@
+kakou:
+  host: 10.123.123.123
+  port: 8099
+  city: hy
+  username: test
+  password: test
+union:
+  host: 10.123.123.124
+  port: 8099
+city: hy
+kkdd_id: '441303000'
+id_flag: 901936322
+id_step: 200
+usefulkkdd:
